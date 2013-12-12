@@ -71,8 +71,6 @@ public class RiotAPITest {
 
     @Test
     public void testGetLeague() throws Exception {
-        // Ian's ID: 29461776
-        // Quinn's ID: 21114914
         // VoyBoy's ID: 22097256
         RiotServerReqest.getLeague("na", 22097256);
     }
