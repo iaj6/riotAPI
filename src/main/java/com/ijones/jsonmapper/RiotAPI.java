@@ -1,4 +1,4 @@
-package com.com.ijones.jsonmapper;
+package com.ijones.jsonmapper;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonGenerator;

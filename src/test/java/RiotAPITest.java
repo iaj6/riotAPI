@@ -1,5 +1,5 @@
-import com.com.ijones.jsonmapper.RiotAPI;
-import com.com.ijones.jsonmapper.RiotServerReqest;
+import com.ijones.jsonmapper.RiotAPI;
+import com.ijones.jsonmapper.RiotServerReqest;
 import com.ijones.riotpojos.*;
 import org.junit.After;
 import org.junit.Before;

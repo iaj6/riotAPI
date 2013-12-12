@@ -1,4 +1,4 @@
-package com.com.ijones.jsonmapper;
+package com.ijones.jsonmapper;
 
 import org.apache.commons.io.IOUtils;
 
